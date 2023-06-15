@@ -1,2 +1,2 @@
 # SpaceShooter
-A one person arcade-style shooter game
+A one person arcade-style shooter game. Your mission is to shoot the aliens, if they escape 3 times or collide with the user, you lose. Press space for shooting, left and right arrow keys for moving back and forth.
